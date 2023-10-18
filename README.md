@@ -65,3 +65,20 @@ https://opengameart.org/content/heart-pixel-art
 •	UI displays number of lives, number of apples eaten, player score, whether an active multiplier is on, snake size and brief help text.
 
 •	Countdown timer when starting a new game (visuals and audio)
+
+# Presentation (Details about the game):
+![image](https://github.com/JakeCannon/SnakeGame/assets/26544657/74e55a62-8761-4232-9b79-9fd744a3adae)
+
+![image](https://github.com/JakeCannon/SnakeGame/assets/26544657/8578fa27-c63d-4221-aa3e-8bdf2e453898)
+
+![image](https://github.com/JakeCannon/SnakeGame/assets/26544657/643fd1a3-03ec-4740-921e-ed976a3e1539)
+
+![image](https://github.com/JakeCannon/SnakeGame/assets/26544657/a139c60d-3a1f-4f7f-9d66-8e5fb74c7cff)
+
+![image](https://github.com/JakeCannon/SnakeGame/assets/26544657/2878588c-baf6-401e-acce-898c78c70c29)
+
+![image](https://github.com/JakeCannon/SnakeGame/assets/26544657/6c69ea00-d65b-494a-aaa0-21a35def72b4)
+
+![image](https://github.com/JakeCannon/SnakeGame/assets/26544657/d7d6ab5c-635f-4f69-93fc-e2154844bf23)
+
+
